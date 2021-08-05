@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LuisaQS
+- 👋 Hi, I’m @LuisaQuintian
 - 👀 I’m interested in learning Front end
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on luisaquintian@hotmail.com
 
 <!---
