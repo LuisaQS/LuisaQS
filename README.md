@@ -9,7 +9,7 @@
   
 📚 I'm currently improving my skills with react, so I can write code that is better and cleaner! 
   
-✉️ You can reach me through my linkedin <a href="https://www.linkedin.com/in/luisa-q-silveira/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="30" /></a>, or through my e-mail luisaqsilveira@hotmail.com.
+✉️ You can reach me through my <a href="https://www.linkedin.com/in/luisa-q-silveira/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>, or through my e-mail luisaqsilveira@hotmail.com.
 </br>
 </br>
 </br>
